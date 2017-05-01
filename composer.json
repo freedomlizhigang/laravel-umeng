@@ -1,0 +1,21 @@
+{
+    "name": "lzg-xiyi/umengpush",
+    "description": "umeng push",
+    "type": "library",
+    "require": {
+        "php": ">=5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "LiZG",
+            "email": "854378082@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "LiZG\\UmengPush\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
